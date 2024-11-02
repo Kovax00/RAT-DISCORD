@@ -1,5 +1,5 @@
 # RAT-DISCORD
-👺RAT-DISCORD (c2) (indetectable)
+👺RAT-DISCORD (c2) (indetectable) $50
 
 # Comandos y funciones
 * !start "contraseña" <ingresa tu contraseña para ingresar comandos>
