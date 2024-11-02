@@ -2,7 +2,7 @@
 👺RAT-DISCORD (c2) (indetectable)
 
 # Comandos y funciones
-!start "contraseña" <ingresa tu contraseña para ingresar comandos>
+* !start "contraseña" <ingresa tu contraseña para ingresar comandos>
 !cmd <ejecución de comandos en cmd>
 !screen <realiza una foto_captura de la pantalla de tu obj>
 !download "ruta de archivo/carpeta" (descarga un archivo o carpeta y lo manda al atacante)
