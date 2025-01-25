@@ -1,7 +1,7 @@
 # RAT-DISCORD
 👺RAT-DISCORD (c2) (indetectable) $50
 
-# Comandos y funciones
+### Comandos y funciones
 * !start "contraseña" <ingresa tu contraseña para ingresar comandos>
 * !cmd <ejecución de comandos en cmd>
 * !screen <realiza una foto_captura de la pantalla de tu obj>
