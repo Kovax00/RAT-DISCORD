@@ -1,5 +1,5 @@
 # RAT-DISCORD
-👺RAT-DISCORD (c2) (indetectable) $50
+👺RAT-DISCORD (c2) (indetectable) exe $240 codigo base $380
 
 ### Comandos y funciones
 * !start "contraseña" <ingresa tu contraseña para ingresar comandos>
